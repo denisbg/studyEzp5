@@ -1,1 +1,6 @@
 Etude de la version 5 d'EZP avec Symfony2
+git init
+git add 
+git commit 
+git status
+et plus encore

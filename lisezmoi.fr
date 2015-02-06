@@ -4,3 +4,8 @@ git add
 git commit 
 git status
 et plus encore
+Exemples :
+//Pour annuler un ajout de fichier, un simple retour en arrière en gardant les modifications suffit
+git reset --soft HEAD^
+//Si l'on juge que les 3 dernières versions n'étaient pas bonnes et que l'on souhaite tout annuler
+git resert --hard HEAD~3
